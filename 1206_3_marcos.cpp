@@ -1,6 +1,6 @@
-include<iostream>
+#include<iostream>
 
-using namespace std
+using namespace std;
 
 #define SQRT(x) (x * x)
 
